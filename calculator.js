@@ -15,6 +15,5 @@ if (operatie === "+") {
 } else {
     resultaat = "Ongeldige operatie!";
 }
-
 console.log("Resultaat:", resultaat);
 alert("Resultaat: " + resultaat);
